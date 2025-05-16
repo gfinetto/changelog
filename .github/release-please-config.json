@@ -1,0 +1,5 @@
+{
+  "release-type": "simple",
+  "bump-minor-pre-major": true,
+  "changelog-path": "CHANGELOG.md"
+}
